@@ -1,11 +1,11 @@
 # Python Exploratory Data Analysis and Data Visualization
 ## Contains practice exercises in:
-* **NumPy
-* **Pandas
-* **Matplotlib
-* **Seaborn
-* **Plotly
-* **Choropleth - Geograpical Plotting
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Seaborn**
+* **Plotly**
+* **Choropleth - Geograpical Plotting**
 ## Data avalysis and visualization Projects
 **1. 911 Calls Capstone Project**
 * In this capstone project the 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert) is explored, visualized and analyzed.
